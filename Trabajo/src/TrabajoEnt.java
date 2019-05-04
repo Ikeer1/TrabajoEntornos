@@ -6,7 +6,7 @@ public class TrabajoEnt {
 	
 	void sumar() {
 		suma= (numero1 + numero2);
-		System.out.println("El resultado es el siguiente : " + suma);
+		System.out.println("El resultado es el siguiente: " + suma);
 	}
 	
 	public static void main(String[] args) {
